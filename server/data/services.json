@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Logo Design & Branding",
+    "description": "Professional logo design with full branding kit and social media assets.",
+    "category": "Design",
+    "price": 150,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?auto=format&fit=crop&q=80&w=400",
+    "seller": "ArtisticPixel"
+  },
+  {
+    "id": 2,
+    "title": "Full-Stack Web Development",
+    "description": "Custom website building using React, Node.js, and MongoDB. Fast and responsive.",
+    "category": "Tech",
+    "price": 500,
+    "rating": 5.0,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=400",
+    "seller": "CodeMaster"
+  },
+  {
+    "id": 3,
+    "title": "Social Media Marketing",
+    "description": "Grow your brand's presence across Instagram, Twitter, and LinkedIn.",
+    "category": "Marketing",
+    "price": 200,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=400",
+    "seller": "GrowthHacker"
+  },
+  {
+    "id": 4,
+    "title": "Copywriting & SEO Blogs",
+    "description": "High-converting copy and SEO-optimized blog posts for your business.",
+    "category": "Writing",
+    "price": 80,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&q=80&w=400",
+    "seller": "WordWizard"
+  },
+  {
+    "id": 5,
+    "title": "Video Editing & Motion Graphics",
+    "description": "Transform your raw footage into cinematic masterpieces with 4K output.",
+    "category": "Video",
+    "price": 300,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&q=80&w=400",
+    "seller": "MotionStudio"
+  },
+  {
+    "id": 6,
+    "title": "Mobile App UI/UX Design",
+    "description": "Modern and intuitive user interfaces for iOS and Android applications.",
+    "category": "Design",
+    "price": 400,
+    "rating": 5.0,
+    "image": "https://images.unsplash.com/photo-1586717791821-3f44a563eb4c?auto=format&fit=crop&q=80&w=400",
+    "seller": "PixelPerfect"
+  }
+]
