@@ -2,7 +2,7 @@
 
 A premium full-stack web application designed for a freelance marketplace. Users can browse services, filter by category/price, view details, and simulate saving or hiring services using drag-and-drop or interactive buttons.
 
-## 🚀 Features
+## Features
 - **Frontend**: Responsive Vanilla HTML/CSS/JS with a glassmorphic design.
 - **Backend**: Express.js server with RESTful API endpoints.
 - **Dynamic Filtering**: Search by title, filter by category, and sort by price/rating.
@@ -10,7 +10,7 @@ A premium full-stack web application designed for a freelance marketplace. Users
 - **Interactive UI**: Drag-and-drop functionality and modal-based detail views.
 - **State Management**: Local state sync with backend memory storage.
 
-## 🛠️ API Endpoints
+## API Endpoints
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | GET | `/api/services` | Retrieve all available services |
@@ -20,7 +20,7 @@ A premium full-stack web application designed for a freelance marketplace. Users
 | GET | `/api/saved` | Get the list of saved services |
 | GET | `/api/hired` | Get the list of hired services |
 
-## 📦 Setup Instructions
+## Setup Instructions
 1. **Prerequisites**: Ensure you have [Node.js](https://nodejs.org/) installed.
 2. **Installation**:
    ```bash
@@ -33,7 +33,7 @@ A premium full-stack web application designed for a freelance marketplace. Users
    ```
 4. **Access**: Open `http://localhost:5000` in your browser.
 
-## 📁 Project Structure
+## Project Structure
 ```text
 /FreelanceHub
 │── /client
